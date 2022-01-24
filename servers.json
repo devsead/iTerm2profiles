@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Server A",
+    "command": "ssh -i /Users/admin/id_rsa root@127.0.0.1 -p 22"
+  }
+]
+
+
+
+
+
+
